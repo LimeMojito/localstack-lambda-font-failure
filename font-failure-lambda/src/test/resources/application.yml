@@ -1,0 +1,6 @@
+localstack:
+  url: "http://localhost:4566"
+logging:
+  level:
+    com.limemojito: debug
+    net.sf.jasperreports: debug
