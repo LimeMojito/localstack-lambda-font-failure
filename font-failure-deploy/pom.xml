@@ -29,7 +29,7 @@
     <parent>
         <groupId>com.limemojito.oss.standards</groupId>
         <artifactId>java-cdk-development</artifactId>
-        <version>15.2.0-SNAPSHOT</version>
+        <version>15.2.0</version>
         <relativePath/>
     </parent>
 

@@ -29,7 +29,7 @@
     <parent>
         <groupId>com.limemojito.oss.standards</groupId>
         <artifactId>jar-development</artifactId>
-        <version>15.2.0-SNAPSHOT</version>
+        <version>15.2.0</version>
         <relativePath/>
     </parent>
 
@@ -108,7 +108,7 @@
         <dependency>
             <groupId>com.limemojito.oss.test</groupId>
             <artifactId>test-utilities</artifactId>
-            <version>15.2.0-SNAPSHOT</version>
+            <version>15.2.0</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
