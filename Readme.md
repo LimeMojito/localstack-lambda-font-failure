@@ -70,3 +70,6 @@ Serif.bolditalic Serif
 Serif.italic Serif
 Serif.plain Serif
 ```
+       
+# Localstack Git Issue raised
+https://github.com/localstack/localstack/issues/12104
